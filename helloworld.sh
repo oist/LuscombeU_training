@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "fuck you world"
+echo "fuck you trump"
